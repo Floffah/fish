@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@snowpack/plugin-optimize": "^0.2.9",
+    "@snowpack/plugin-postcss": "^1.0.7",
+    "@snowpack/plugin-sass": "^1.1.1",
+    "@snowpack/plugin-typescript": "^1.1.0",
+    "@snowpack/plugin-webpack": "^2.1.1",
+    "@types/react": "^16.9.56",
+    "@types/react-dom": "^16.9.9",
+    "@types/yt-player": "^3.5.0",
+    "antd": "^4.8.4",
+    "aphrodite": "^2.4.0",
+    "postcss": "^8.1.8",
+    "postcss-cli": "^8.3.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "rollup-plugin-node-polyfills": "^0.2.1",
+    "snowpack": "^2.17.1",
+    "typescript": "^4.0.5",
+    "yt-player": "^3.5.0"
+  },
+  "version": "0.0.1",
+  "name": "lefishe"
+}

@@ -1,0 +1,5 @@
+docs/web_modules
+docs/media
+docs/__snowpack__
+node_modules
+.idea
