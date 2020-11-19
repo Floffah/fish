@@ -1,9 +1,0 @@
-{
-  "imports": {
-    "antd/dist/antd.min.css": "./antd/dist/antd.min.css",
-    "aphrodite": "./aphrodite.js",
-    "react": "./react.js",
-    "react-dom": "./react-dom.js",
-    "yt-player": "./yt-player.js"
-  }
-}
