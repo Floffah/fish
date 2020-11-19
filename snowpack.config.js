@@ -1,6 +1,6 @@
 module.exports = {
     mount: {
-        public: "/",
+        public: "/fish",
         src: "/media"
     },
     exclude: ['**/node_modules/**/*', '**/__tests__/*', '**/*.@(spec|test).@(js|mjs)', '**/*.stories.@(tsx|mdx)'],
